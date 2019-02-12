@@ -1,14 +1,9 @@
-# Full stack web application skeleton
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/f291fc6ee1ae90ea86b4/maintainability)](https://codeclimate.com/github/oh-my-c0de/oh-my-fullstack/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/f291fc6ee1ae90ea86b4/test_coverage)](https://codeclimate.com/github/oh-my-c0de/oh-my-fullstack/test_coverage)
-
 ## Getting started
 
 1. Clone and install dependencies:
 
 ```bash
-$ git clone https://github.com/oh-my-c0de/oh-my-fullstack.git ./my-fullstack && cd my-fullstack && yarn
+$ git clone https://github.com/crocohs/next-redux-express-ssr.git
 ```
 
 2. Run application in development mode:
